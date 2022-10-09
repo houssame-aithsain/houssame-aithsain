@@ -1,3 +1,3 @@
 
 
-<a href=""><img src="https://badge.mediaplus.ma/greenbinary/Hait-hsa" alt="Hait-hsa's 42 stats" /></a><p style="text-align:center">Search</a>
+<a href=""><img src="https://badge.mediaplus.ma/greenbinary/Hait-hsa" alt="Hait-hsa's 42 stats" /></a>
